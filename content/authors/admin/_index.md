@@ -32,10 +32,10 @@ organizations:
     url: https://ics.uci.edu
 education:
   courses:
-    - course: PhD Student in Artificial Intelligence, 2021 - 2026(Expected)
+    - course: PhD Student, Computer Science, 2021 - 2026 (expected)
       institution: UC Irvine
       year: ""
-    - course: B.E. in Computer Science
+    - course: B.E., Computer Science
       institution: Southeast University
       year: 2021
 superuser: true
