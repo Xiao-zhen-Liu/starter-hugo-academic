@@ -1,9 +1,9 @@
 ---
-title: Xiaozhen Liu 刘晓臻
+title: Xiaozhen (Jamie) Liu
 role: Computer Science PhD student at UC Irvine
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include big data processing, collaborative data
+  analytics systems, and in general database systems.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
