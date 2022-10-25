@@ -35,9 +35,9 @@ education:
     - course: PhD Student, Computer Science, 2021 -
       institution: University of California, Irvine
       year: ""
-    - course: B.E., Computer Science
+    - course: B.E., Computer Science, 2017-2021
       institution: Southeast University
-      year: 2021
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
