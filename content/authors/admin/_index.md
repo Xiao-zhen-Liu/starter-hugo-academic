@@ -1,6 +1,6 @@
 ---
 title: Xiaozhen (Jamie) Liu
-role: Computer Science PhD student at UC Irvine
+role: PhD student in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include big data processing, collaborative data
   analytics systems, and in general database systems.
@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UC Irvine
+    url: https://ics.uci.edu
 education:
   courses:
     - course: PhD in Artificial Intelligence
