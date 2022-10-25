@@ -32,8 +32,8 @@ organizations:
     url: https://ics.uci.edu
 education:
   courses:
-    - course: PhD Student, Computer Science, 2021 - 2026 (expected)
-      institution: UC Irvine
+    - course: PhD Student, Computer Science, 2021 -
+      institution: University of California, Irvine
       year: ""
     - course: B.E., Computer Science
       institution: Southeast University
