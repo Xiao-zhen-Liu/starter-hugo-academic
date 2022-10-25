@@ -1,4 +1,7 @@
 ---
+title: Xiaozhen Liu 刘晓臻
+role: Computer Science PhD student at UC Irvine
+avatar_filename: dscf7125.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -40,9 +43,7 @@ education:
       year: 2008
 superuser: true
 last_name: Bighetti
-role: PhD
 highlight_name: true
-title: Xiaozhen Liu 刘晓臻
 first_name: Alice
 email: ""
 ---
