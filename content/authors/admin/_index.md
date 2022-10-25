@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include big data processing, collaborative data
   analytics systems, and in general database systems.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Database Systems
+  - Big Data Processing
+  - Collaborative Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
