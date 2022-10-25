@@ -32,7 +32,7 @@ organizations:
     url: https://ics.uci.edu
 education:
   courses:
-    - course: PhD Student in Artificial Intelligence
+    - course: PhD Student in Artificial Intelligence, 2021 - 2026(Expected)
       institution: UC Irvine
       year: ""
     - course: B.E. in Computer Science
