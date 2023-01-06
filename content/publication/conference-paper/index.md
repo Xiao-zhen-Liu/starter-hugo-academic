@@ -27,31 +27,15 @@ abstract: Collaborative data analytics is becoming increasingly important due to
   phase, and monitoring and controlling the shared runtime during the execution
   phase.
 tags: []
-projects:
-  - example
-slides: example
-url_pdf: ""
+url_pdf: "https://www.vldb.org/pvldb/vol15/p3738-liu.pdf"
 publication_types:
   - "1"
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_video: https://www.youtube.com/watch?v=2gfPUZNsoBs
 publication: In *48th International Conference on Very Large Databases*
 featured: true
 date: 2022-10-25T23:16:31.789Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+publishDate: 2022-10-25T00:00:00Z
 ---
 
 {{% callout note %}}

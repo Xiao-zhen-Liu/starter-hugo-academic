@@ -9,24 +9,16 @@ interests:
   - Big Data Processing
   - Collaborative Data Analytics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JamielxzWolf
     label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Xiao-zhen-Liu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xiaozhen-liu-jamie/
 organizations:
   - name: UC Irvine
     url: https://ics.uci.edu
@@ -46,4 +38,4 @@ email: ""
 ---
 Hi, welcome to my page! I am a second-year Computer Science PhD Student at UC Irvine's [Information Systems Group (ISG)](https://isg.ics.uci.edu). My advisor is [Professor Chen Li](https://chenli.ics.uci.edu).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiaozhen_Liu_CV___Resume.pdf" "newtab" >}}CV{{< /staticref >}}.
